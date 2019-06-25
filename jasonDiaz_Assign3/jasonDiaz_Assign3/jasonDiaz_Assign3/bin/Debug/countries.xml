@@ -1,0 +1,5362 @@
+<ArrayofCountry>
+	<0>
+		<currencies>
+			<code>AFN</code>
+			<name>Afghan afghani</name>
+			<symbol>؋</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ps</iso639_1>
+			<iso639_2>pus</iso639_2>
+			<name>Pashto</name>
+			<nativeName>پښتو</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>uz</iso639_1>
+			<iso639_2>uzb</iso639_2>
+			<name>Uzbek</name>
+			<nativeName>Oʻzbek</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>tk</iso639_1>
+			<iso639_2>tuk</iso639_2>
+			<name>Turkmen</name>
+			<nativeName>Türkmen</nativeName>
+		</languages>
+		<name>Afghanistan</name>
+		<capital>Kabul</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>27657145</population>
+	</0>
+	<1>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sv</iso639_1>
+			<iso639_2>swe</iso639_2>
+			<name>Swedish</name>
+			<nativeName>svenska</nativeName>
+		</languages>
+		<name>Åland Islands</name>
+		<capital>Mariehamn</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>28875</population>
+	</1>
+	<2>
+		<currencies>
+			<code>ALL</code>
+			<name>Albanian lek</name>
+			<symbol>L</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sq</iso639_1>
+			<iso639_2>sqi</iso639_2>
+			<name>Albanian</name>
+			<nativeName>Shqip</nativeName>
+		</languages>
+		<name>Albania</name>
+		<capital>Tirana</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>2886026</population>
+	</2>
+	<3>
+		<currencies>
+			<code>DZD</code>
+			<name>Algerian dinar</name>
+			<symbol>د.ج</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Algeria</name>
+		<capital>Algiers</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>40400000</population>
+	</3>
+	<4>
+		<currencies>
+			<code>USD</code>
+			<name>United State Dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sm</iso639_1>
+			<iso639_2>smo</iso639_2>
+			<name>Samoan</name>
+			<nativeName>gagana fa'a Samoa</nativeName>
+		</languages>
+		<name>American Samoa</name>
+		<capital>Pago Pago</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>57100</population>
+	</4>
+	<5>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ca</iso639_1>
+			<iso639_2>cat</iso639_2>
+			<name>Catalan</name>
+			<nativeName>català</nativeName>
+		</languages>
+		<name>Andorra</name>
+		<capital>Andorra la Vella</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>78014</population>
+	</5>
+	<6>
+		<currencies>
+			<code>AOA</code>
+			<name>Angolan kwanza</name>
+			<symbol>Kz</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Angola</name>
+		<capital>Luanda</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>25868000</population>
+	</6>
+	<7>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Anguilla</name>
+		<capital>The Valley</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>13452</population>
+	</7>
+	<8>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Antarctica</name>
+		<capital></capital>
+		<region>Polar</region>
+		<subregion></subregion>
+		<population>1000</population>
+	</8>
+	<9>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Antigua and Barbuda</name>
+		<capital>Saint John's</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>86295</population>
+	</9>
+	<10>
+		<currencies>
+			<code>ARS</code>
+			<name>Argentine peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>gn</iso639_1>
+			<iso639_2>grn</iso639_2>
+			<name>Guaraní</name>
+			<nativeName>Avañe'ẽ</nativeName>
+		</languages>
+		<name>Argentina</name>
+		<capital>Buenos Aires</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>43590400</population>
+	</10>
+	<11>
+		<currencies>
+			<code>AMD</code>
+			<name>Armenian dram</name>
+		</currencies>
+		<languages>
+			<iso639_1>hy</iso639_1>
+			<iso639_2>hye</iso639_2>
+			<name>Armenian</name>
+			<nativeName>Հայերեն</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Armenia</name>
+		<capital>Yerevan</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>2994400</population>
+	</11>
+	<12>
+		<currencies>
+			<code>AWG</code>
+			<name>Aruban florin</name>
+			<symbol>ƒ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>pa</iso639_1>
+			<iso639_2>pan</iso639_2>
+			<name>(Eastern) Punjabi</name>
+			<nativeName>ਪੰਜਾਬੀ</nativeName>
+		</languages>
+		<name>Aruba</name>
+		<capital>Oranjestad</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>107394</population>
+	</12>
+	<13>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Australia</name>
+		<capital>Canberra</capital>
+		<region>Oceania</region>
+		<subregion>Australia and New Zealand</subregion>
+		<population>24117360</population>
+	</13>
+	<14>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<name>Austria</name>
+		<capital>Vienna</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>8725931</population>
+	</14>
+	<15>
+		<currencies>
+			<code>AZN</code>
+			<name>Azerbaijani manat</name>
+		</currencies>
+		<languages>
+			<iso639_1>az</iso639_1>
+			<iso639_2>aze</iso639_2>
+			<name>Azerbaijani</name>
+			<nativeName>azərbaycan dili</nativeName>
+		</languages>
+		<name>Azerbaijan</name>
+		<capital>Baku</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>9730500</population>
+	</15>
+	<16>
+		<currencies>
+			<code>BSD</code>
+			<name>Bahamian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Bahamas</name>
+		<capital>Nassau</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>378040</population>
+	</16>
+	<17>
+		<currencies>
+			<code>BHD</code>
+			<name>Bahraini dinar</name>
+			<symbol>.د.ب</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Bahrain</name>
+		<capital>Manama</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>1404900</population>
+	</17>
+	<18>
+		<currencies>
+			<code>BDT</code>
+			<name>Bangladeshi taka</name>
+			<symbol>৳</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>bn</iso639_1>
+			<iso639_2>ben</iso639_2>
+			<name>Bengali</name>
+			<nativeName>বাংলা</nativeName>
+		</languages>
+		<name>Bangladesh</name>
+		<capital>Dhaka</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>161006790</population>
+	</18>
+	<19>
+		<currencies>
+			<code>BBD</code>
+			<name>Barbadian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Barbados</name>
+		<capital>Bridgetown</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>285000</population>
+	</19>
+	<20>
+		<currencies>
+			<code>BYN</code>
+			<name>New Belarusian ruble</name>
+			<symbol>Br</symbol>
+		</currencies>
+		<currencies>
+			<code>BYR</code>
+			<name>Old Belarusian ruble</name>
+			<symbol>Br</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>be</iso639_1>
+			<iso639_2>bel</iso639_2>
+			<name>Belarusian</name>
+			<nativeName>беларуская мова</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Belarus</name>
+		<capital>Minsk</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>9498700</population>
+	</20>
+	<21>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<name>Belgium</name>
+		<capital>Brussels</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>11319511</population>
+	</21>
+	<22>
+		<currencies>
+			<code>BZD</code>
+			<name>Belize dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Belize</name>
+		<capital>Belmopan</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>370300</population>
+	</22>
+	<23>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Benin</name>
+		<capital>Porto-Novo</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>10653654</population>
+	</23>
+	<24>
+		<currencies>
+			<code>BMD</code>
+			<name>Bermudian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Bermuda</name>
+		<capital>Hamilton</capital>
+		<region>Americas</region>
+		<subregion>Northern America</subregion>
+		<population>61954</population>
+	</24>
+	<25>
+		<currencies>
+			<code>BTN</code>
+			<name>Bhutanese ngultrum</name>
+			<symbol>Nu.</symbol>
+		</currencies>
+		<currencies>
+			<code>INR</code>
+			<name>Indian rupee</name>
+			<symbol>₹</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>dz</iso639_1>
+			<iso639_2>dzo</iso639_2>
+			<name>Dzongkha</name>
+			<nativeName>རྫོང་ཁ</nativeName>
+		</languages>
+		<name>Bhutan</name>
+		<capital>Thimphu</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>775620</population>
+	</25>
+	<26>
+		<currencies>
+			<code>BOB</code>
+			<name>Bolivian boliviano</name>
+			<symbol>Bs.</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ay</iso639_1>
+			<iso639_2>aym</iso639_2>
+			<name>Aymara</name>
+			<nativeName>aymar aru</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>qu</iso639_1>
+			<iso639_2>que</iso639_2>
+			<name>Quechua</name>
+			<nativeName>Runa Simi</nativeName>
+		</languages>
+		<name>Bolivia (Plurinational State of)</name>
+		<capital>Sucre</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>10985059</population>
+	</26>
+	<27>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<name>Bonaire, Sint Eustatius and Saba</name>
+		<capital>Kralendijk</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>17408</population>
+	</27>
+	<28>
+		<currencies>
+			<code>BAM</code>
+			<name>Bosnia and Herzegovina convertible mark</name>
+		</currencies>
+		<languages>
+			<iso639_1>bs</iso639_1>
+			<iso639_2>bos</iso639_2>
+			<name>Bosnian</name>
+			<nativeName>bosanski jezik</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>hr</iso639_1>
+			<iso639_2>hrv</iso639_2>
+			<name>Croatian</name>
+			<nativeName>hrvatski jezik</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sr</iso639_1>
+			<iso639_2>srp</iso639_2>
+			<name>Serbian</name>
+			<nativeName>српски језик</nativeName>
+		</languages>
+		<name>Bosnia and Herzegovina</name>
+		<capital>Sarajevo</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>3531159</population>
+	</28>
+	<29>
+		<currencies>
+			<code>BWP</code>
+			<name>Botswana pula</name>
+			<symbol>P</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>tn</iso639_1>
+			<iso639_2>tsn</iso639_2>
+			<name>Tswana</name>
+			<nativeName>Setswana</nativeName>
+		</languages>
+		<name>Botswana</name>
+		<capital>Gaborone</capital>
+		<region>Africa</region>
+		<subregion>Southern Africa</subregion>
+		<population>2141206</population>
+	</29>
+	<30>
+		<currencies>
+			<code>NOK</code>
+			<name>Norwegian krone</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>no</iso639_1>
+			<iso639_2>nor</iso639_2>
+			<name>Norwegian</name>
+			<nativeName>Norsk</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nb</iso639_1>
+			<iso639_2>nob</iso639_2>
+			<name>Norwegian Bokmål</name>
+			<nativeName>Norsk bokmål</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nn</iso639_1>
+			<iso639_2>nno</iso639_2>
+			<name>Norwegian Nynorsk</name>
+			<nativeName>Norsk nynorsk</nativeName>
+		</languages>
+		<name>Bouvet Island</name>
+		<capital></capital>
+		<region></region>
+		<subregion></subregion>
+		<population>0</population>
+	</30>
+	<31>
+		<currencies>
+			<code>BRL</code>
+			<name>Brazilian real</name>
+			<symbol>R$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Brazil</name>
+		<capital>Brasília</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>206135893</population>
+	</31>
+	<32>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>British Indian Ocean Territory</name>
+		<capital>Diego Garcia</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>3000</population>
+	</32>
+	<33>
+		<currencies>
+			<code>USD</code>
+			<name>United States Dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>United States Minor Outlying Islands</name>
+		<capital></capital>
+		<region>Americas</region>
+		<subregion>Northern America</subregion>
+		<population>300</population>
+	</33>
+	<34>
+		<currencies>
+			<name>[D]</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Virgin Islands (British)</name>
+		<capital>Road Town</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>28514</population>
+	</34>
+	<35>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Virgin Islands (U.S.)</name>
+		<capital>Charlotte Amalie</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>114743</population>
+	</35>
+	<36>
+		<currencies>
+			<code>BND</code>
+			<name>Brunei dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>SGD</code>
+			<name>Singapore dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ms</iso639_1>
+			<iso639_2>msa</iso639_2>
+			<name>Malay</name>
+			<nativeName>bahasa Melayu</nativeName>
+		</languages>
+		<name>Brunei Darussalam</name>
+		<capital>Bandar Seri Begawan</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>411900</population>
+	</36>
+	<37>
+		<currencies>
+			<code>BGN</code>
+			<name>Bulgarian lev</name>
+			<symbol>лв</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>bg</iso639_1>
+			<iso639_2>bul</iso639_2>
+			<name>Bulgarian</name>
+			<nativeName>български език</nativeName>
+		</languages>
+		<name>Bulgaria</name>
+		<capital>Sofia</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>7153784</population>
+	</37>
+	<38>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ff</iso639_1>
+			<iso639_2>ful</iso639_2>
+			<name>Fula</name>
+			<nativeName>Fulfulde</nativeName>
+		</languages>
+		<name>Burkina Faso</name>
+		<capital>Ouagadougou</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>19034397</population>
+	</38>
+	<39>
+		<currencies>
+			<code>BIF</code>
+			<name>Burundian franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>rn</iso639_1>
+			<iso639_2>run</iso639_2>
+			<name>Kirundi</name>
+			<nativeName>Ikirundi</nativeName>
+		</languages>
+		<name>Burundi</name>
+		<capital>Bujumbura</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>10114505</population>
+	</39>
+	<40>
+		<currencies>
+			<code>KHR</code>
+			<name>Cambodian riel</name>
+			<symbol>៛</symbol>
+		</currencies>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>km</iso639_1>
+			<iso639_2>khm</iso639_2>
+			<name>Khmer</name>
+			<nativeName>ខ្មែរ</nativeName>
+		</languages>
+		<name>Cambodia</name>
+		<capital>Phnom Penh</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>15626444</population>
+	</40>
+	<41>
+		<currencies>
+			<code>XAF</code>
+			<name>Central African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Cameroon</name>
+		<capital>Yaoundé</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>22709892</population>
+	</41>
+	<42>
+		<currencies>
+			<code>CAD</code>
+			<name>Canadian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Canada</name>
+		<capital>Ottawa</capital>
+		<region>Americas</region>
+		<subregion>Northern America</subregion>
+		<population>36155487</population>
+	</42>
+	<43>
+		<currencies>
+			<code>CVE</code>
+			<name>Cape Verdean escudo</name>
+			<symbol>Esc</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Cabo Verde</name>
+		<capital>Praia</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>531239</population>
+	</43>
+	<44>
+		<currencies>
+			<code>KYD</code>
+			<name>Cayman Islands dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Cayman Islands</name>
+		<capital>George Town</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>58238</population>
+	</44>
+	<45>
+		<currencies>
+			<code>XAF</code>
+			<name>Central African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sg</iso639_1>
+			<iso639_2>sag</iso639_2>
+			<name>Sango</name>
+			<nativeName>yângâ tî sängö</nativeName>
+		</languages>
+		<name>Central African Republic</name>
+		<capital>Bangui</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>4998000</population>
+	</45>
+	<46>
+		<currencies>
+			<code>XAF</code>
+			<name>Central African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Chad</name>
+		<capital>N'Djamena</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>14497000</population>
+	</46>
+	<47>
+		<currencies>
+			<code>CLP</code>
+			<name>Chilean peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Chile</name>
+		<capital>Santiago</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>18191900</population>
+	</47>
+	<48>
+		<currencies>
+			<code>CNY</code>
+			<name>Chinese yuan</name>
+			<symbol>¥</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>zh</iso639_1>
+			<iso639_2>zho</iso639_2>
+			<name>Chinese</name>
+			<nativeName>中文 (Zhōngwén)</nativeName>
+		</languages>
+		<name>China</name>
+		<capital>Beijing</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>1377422166</population>
+	</48>
+	<49>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Christmas Island</name>
+		<capital>Flying Fish Cove</capital>
+		<region>Oceania</region>
+		<subregion>Australia and New Zealand</subregion>
+		<population>2072</population>
+	</49>
+	<50>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Cocos (Keeling) Islands</name>
+		<capital>West Island</capital>
+		<region>Oceania</region>
+		<subregion>Australia and New Zealand</subregion>
+		<population>550</population>
+	</50>
+	<51>
+		<currencies>
+			<code>COP</code>
+			<name>Colombian peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Colombia</name>
+		<capital>Bogotá</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>48759958</population>
+	</51>
+	<52>
+		<currencies>
+			<code>KMF</code>
+			<name>Comorian franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Comoros</name>
+		<capital>Moroni</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>806153</population>
+	</52>
+	<53>
+		<currencies>
+			<code>XAF</code>
+			<name>Central African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ln</iso639_1>
+			<iso639_2>lin</iso639_2>
+			<name>Lingala</name>
+			<nativeName>Lingála</nativeName>
+		</languages>
+		<name>Congo</name>
+		<capital>Brazzaville</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>4741000</population>
+	</53>
+	<54>
+		<currencies>
+			<code>CDF</code>
+			<name>Congolese franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ln</iso639_1>
+			<iso639_2>lin</iso639_2>
+			<name>Lingala</name>
+			<nativeName>Lingála</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>kg</iso639_1>
+			<iso639_2>kon</iso639_2>
+			<name>Kongo</name>
+			<nativeName>Kikongo</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sw</iso639_1>
+			<iso639_2>swa</iso639_2>
+			<name>Swahili</name>
+			<nativeName>Kiswahili</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>lu</iso639_1>
+			<iso639_2>lub</iso639_2>
+			<name>Luba-Katanga</name>
+			<nativeName>Tshiluba</nativeName>
+		</languages>
+		<name>Congo (Democratic Republic of the)</name>
+		<capital>Kinshasa</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>85026000</population>
+	</54>
+	<55>
+		<currencies>
+			<code>NZD</code>
+			<name>New Zealand dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>CKD</code>
+			<name>Cook Islands dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Cook Islands</name>
+		<capital>Avarua</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>18100</population>
+	</55>
+	<56>
+		<currencies>
+			<code>CRC</code>
+			<name>Costa Rican colón</name>
+			<symbol>₡</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Costa Rica</name>
+		<capital>San José</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>4890379</population>
+	</56>
+	<57>
+		<currencies>
+			<code>HRK</code>
+			<name>Croatian kuna</name>
+			<symbol>kn</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>hr</iso639_1>
+			<iso639_2>hrv</iso639_2>
+			<name>Croatian</name>
+			<nativeName>hrvatski jezik</nativeName>
+		</languages>
+		<name>Croatia</name>
+		<capital>Zagreb</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>4190669</population>
+	</57>
+	<58>
+		<currencies>
+			<code>CUC</code>
+			<name>Cuban convertible peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>CUP</code>
+			<name>Cuban peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Cuba</name>
+		<capital>Havana</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>11239004</population>
+	</58>
+	<59>
+		<currencies>
+			<code>ANG</code>
+			<name>Netherlands Antillean guilder</name>
+			<symbol>ƒ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>pa</iso639_1>
+			<iso639_2>pan</iso639_2>
+			<name>(Eastern) Punjabi</name>
+			<nativeName>ਪੰਜਾਬੀ</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Curaçao</name>
+		<capital>Willemstad</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>154843</population>
+	</59>
+	<60>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>el</iso639_1>
+			<iso639_2>ell</iso639_2>
+			<name>Greek (modern)</name>
+			<nativeName>ελληνικά</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>tr</iso639_1>
+			<iso639_2>tur</iso639_2>
+			<name>Turkish</name>
+			<nativeName>Türkçe</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>hy</iso639_1>
+			<iso639_2>hye</iso639_2>
+			<name>Armenian</name>
+			<nativeName>Հայերեն</nativeName>
+		</languages>
+		<name>Cyprus</name>
+		<capital>Nicosia</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>847000</population>
+	</60>
+	<61>
+		<currencies>
+			<code>CZK</code>
+			<name>Czech koruna</name>
+			<symbol>Kč</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>cs</iso639_1>
+			<iso639_2>ces</iso639_2>
+			<name>Czech</name>
+			<nativeName>čeština</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sk</iso639_1>
+			<iso639_2>slk</iso639_2>
+			<name>Slovak</name>
+			<nativeName>slovenčina</nativeName>
+		</languages>
+		<name>Czech Republic</name>
+		<capital>Prague</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>10558524</population>
+	</61>
+	<62>
+		<currencies>
+			<code>DKK</code>
+			<name>Danish krone</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>da</iso639_1>
+			<iso639_2>dan</iso639_2>
+			<name>Danish</name>
+			<nativeName>dansk</nativeName>
+		</languages>
+		<name>Denmark</name>
+		<capital>Copenhagen</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>5717014</population>
+	</62>
+	<63>
+		<currencies>
+			<code>DJF</code>
+			<name>Djiboutian franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Djibouti</name>
+		<capital>Djibouti</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>900000</population>
+	</63>
+	<64>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Dominica</name>
+		<capital>Roseau</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>71293</population>
+	</64>
+	<65>
+		<currencies>
+			<code>DOP</code>
+			<name>Dominican peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Dominican Republic</name>
+		<capital>Santo Domingo</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>10075045</population>
+	</65>
+	<66>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Ecuador</name>
+		<capital>Quito</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>16545799</population>
+	</66>
+	<67>
+		<currencies>
+			<code>EGP</code>
+			<name>Egyptian pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Egypt</name>
+		<capital>Cairo</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>91290000</population>
+	</67>
+	<68>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>El Salvador</name>
+		<capital>San Salvador</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>6520675</population>
+	</68>
+	<69>
+		<currencies>
+			<code>XAF</code>
+			<name>Central African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Equatorial Guinea</name>
+		<capital>Malabo</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>1222442</population>
+	</69>
+	<70>
+		<currencies>
+			<code>ERN</code>
+			<name>Eritrean nakfa</name>
+			<symbol>Nfk</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ti</iso639_1>
+			<iso639_2>tir</iso639_2>
+			<name>Tigrinya</name>
+			<nativeName>ትግርኛ</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Eritrea</name>
+		<capital>Asmara</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>5352000</population>
+	</70>
+	<71>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>et</iso639_1>
+			<iso639_2>est</iso639_2>
+			<name>Estonian</name>
+			<nativeName>eesti</nativeName>
+		</languages>
+		<name>Estonia</name>
+		<capital>Tallinn</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>1315944</population>
+	</71>
+	<72>
+		<currencies>
+			<code>ETB</code>
+			<name>Ethiopian birr</name>
+			<symbol>Br</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>am</iso639_1>
+			<iso639_2>amh</iso639_2>
+			<name>Amharic</name>
+			<nativeName>አማርኛ</nativeName>
+		</languages>
+		<name>Ethiopia</name>
+		<capital>Addis Ababa</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>92206005</population>
+	</72>
+	<73>
+		<currencies>
+			<code>FKP</code>
+			<name>Falkland Islands pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Falkland Islands (Malvinas)</name>
+		<capital>Stanley</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>2563</population>
+	</73>
+	<74>
+		<currencies>
+			<code>DKK</code>
+			<name>Danish krone</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+			<name>Faroese króna</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fo</iso639_1>
+			<iso639_2>fao</iso639_2>
+			<name>Faroese</name>
+			<nativeName>føroyskt</nativeName>
+		</languages>
+		<name>Faroe Islands</name>
+		<capital>Tórshavn</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>49376</population>
+	</74>
+	<75>
+		<currencies>
+			<code>FJD</code>
+			<name>Fijian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fj</iso639_1>
+			<iso639_2>fij</iso639_2>
+			<name>Fijian</name>
+			<nativeName>vosa Vakaviti</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>hi</iso639_1>
+			<iso639_2>hin</iso639_2>
+			<name>Hindi</name>
+			<nativeName>हिन्दी</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ur</iso639_1>
+			<iso639_2>urd</iso639_2>
+			<name>Urdu</name>
+			<nativeName>اردو</nativeName>
+		</languages>
+		<name>Fiji</name>
+		<capital>Suva</capital>
+		<region>Oceania</region>
+		<subregion>Melanesia</subregion>
+		<population>867000</population>
+	</75>
+	<76>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fi</iso639_1>
+			<iso639_2>fin</iso639_2>
+			<name>Finnish</name>
+			<nativeName>suomi</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sv</iso639_1>
+			<iso639_2>swe</iso639_2>
+			<name>Swedish</name>
+			<nativeName>svenska</nativeName>
+		</languages>
+		<name>Finland</name>
+		<capital>Helsinki</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>5491817</population>
+	</76>
+	<77>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>France</name>
+		<capital>Paris</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>66710000</population>
+	</77>
+	<78>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>French Guiana</name>
+		<capital>Cayenne</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>254541</population>
+	</78>
+	<79>
+		<currencies>
+			<code>XPF</code>
+			<name>CFP franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>French Polynesia</name>
+		<capital>Papeetē</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>271800</population>
+	</79>
+	<80>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>French Southern Territories</name>
+		<capital>Port-aux-Français</capital>
+		<region>Africa</region>
+		<subregion>Southern Africa</subregion>
+		<population>140</population>
+	</80>
+	<81>
+		<currencies>
+			<code>XAF</code>
+			<name>Central African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Gabon</name>
+		<capital>Libreville</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>1802278</population>
+	</81>
+	<82>
+		<currencies>
+			<code>GMD</code>
+			<name>Gambian dalasi</name>
+			<symbol>D</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Gambia</name>
+		<capital>Banjul</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>1882450</population>
+	</82>
+	<83>
+		<currencies>
+			<code>GEL</code>
+			<name>Georgian Lari</name>
+			<symbol>ლ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ka</iso639_1>
+			<iso639_2>kat</iso639_2>
+			<name>Georgian</name>
+			<nativeName>ქართული</nativeName>
+		</languages>
+		<name>Georgia</name>
+		<capital>Tbilisi</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>3720400</population>
+	</83>
+	<84>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<name>Germany</name>
+		<capital>Berlin</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>81770900</population>
+	</84>
+	<85>
+		<currencies>
+			<code>GHS</code>
+			<name>Ghanaian cedi</name>
+			<symbol>₵</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Ghana</name>
+		<capital>Accra</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>27670174</population>
+	</85>
+	<86>
+		<currencies>
+			<code>GIP</code>
+			<name>Gibraltar pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Gibraltar</name>
+		<capital>Gibraltar</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>33140</population>
+	</86>
+	<87>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>el</iso639_1>
+			<iso639_2>ell</iso639_2>
+			<name>Greek (modern)</name>
+			<nativeName>ελληνικά</nativeName>
+		</languages>
+		<name>Greece</name>
+		<capital>Athens</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>10858018</population>
+	</87>
+	<88>
+		<currencies>
+			<code>DKK</code>
+			<name>Danish krone</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>kl</iso639_1>
+			<iso639_2>kal</iso639_2>
+			<name>Kalaallisut</name>
+			<nativeName>kalaallisut</nativeName>
+		</languages>
+		<name>Greenland</name>
+		<capital>Nuuk</capital>
+		<region>Americas</region>
+		<subregion>Northern America</subregion>
+		<population>55847</population>
+	</88>
+	<89>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Grenada</name>
+		<capital>St. George's</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>103328</population>
+	</89>
+	<90>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Guadeloupe</name>
+		<capital>Basse-Terre</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>400132</population>
+	</90>
+	<91>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ch</iso639_1>
+			<iso639_2>cha</iso639_2>
+			<name>Chamorro</name>
+			<nativeName>Chamoru</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Guam</name>
+		<capital>Hagåtña</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>184200</population>
+	</91>
+	<92>
+		<currencies>
+			<code>GTQ</code>
+			<name>Guatemalan quetzal</name>
+			<symbol>Q</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Guatemala</name>
+		<capital>Guatemala City</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>16176133</population>
+	</92>
+	<93>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+			<name>Guernsey pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Guernsey</name>
+		<capital>St. Peter Port</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>62999</population>
+	</93>
+	<94>
+		<currencies>
+			<code>GNF</code>
+			<name>Guinean franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ff</iso639_1>
+			<iso639_2>ful</iso639_2>
+			<name>Fula</name>
+			<nativeName>Fulfulde</nativeName>
+		</languages>
+		<name>Guinea</name>
+		<capital>Conakry</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>12947000</population>
+	</94>
+	<95>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Guinea-Bissau</name>
+		<capital>Bissau</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>1547777</population>
+	</95>
+	<96>
+		<currencies>
+			<code>GYD</code>
+			<name>Guyanese dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Guyana</name>
+		<capital>Georgetown</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>746900</population>
+	</96>
+	<97>
+		<currencies>
+			<code>HTG</code>
+			<name>Haitian gourde</name>
+			<symbol>G</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ht</iso639_1>
+			<iso639_2>hat</iso639_2>
+			<name>Haitian</name>
+			<nativeName>Kreyòl ayisyen</nativeName>
+		</languages>
+		<name>Haiti</name>
+		<capital>Port-au-Prince</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>11078033</population>
+	</97>
+	<98>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Heard Island and McDonald Islands</name>
+		<capital></capital>
+		<region></region>
+		<subregion></subregion>
+		<population>0</population>
+	</98>
+	<99>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>la</iso639_1>
+			<iso639_2>lat</iso639_2>
+			<name>Latin</name>
+			<nativeName>latine</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>it</iso639_1>
+			<iso639_2>ita</iso639_2>
+			<name>Italian</name>
+			<nativeName>Italiano</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<name>Holy See</name>
+		<capital>Rome</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>451</population>
+	</99>
+	<100>
+		<currencies>
+			<code>HNL</code>
+			<name>Honduran lempira</name>
+			<symbol>L</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Honduras</name>
+		<capital>Tegucigalpa</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>8576532</population>
+	</100>
+	<101>
+		<currencies>
+			<code>HKD</code>
+			<name>Hong Kong dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>zh</iso639_1>
+			<iso639_2>zho</iso639_2>
+			<name>Chinese</name>
+			<nativeName>中文 (Zhōngwén)</nativeName>
+		</languages>
+		<name>Hong Kong</name>
+		<capital>City of Victoria</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>7324300</population>
+	</101>
+	<102>
+		<currencies>
+			<code>HUF</code>
+			<name>Hungarian forint</name>
+			<symbol>Ft</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>hu</iso639_1>
+			<iso639_2>hun</iso639_2>
+			<name>Hungarian</name>
+			<nativeName>magyar</nativeName>
+		</languages>
+		<name>Hungary</name>
+		<capital>Budapest</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>9823000</population>
+	</102>
+	<103>
+		<currencies>
+			<code>ISK</code>
+			<name>Icelandic króna</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>is</iso639_1>
+			<iso639_2>isl</iso639_2>
+			<name>Icelandic</name>
+			<nativeName>Íslenska</nativeName>
+		</languages>
+		<name>Iceland</name>
+		<capital>Reykjavík</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>334300</population>
+	</103>
+	<104>
+		<currencies>
+			<code>INR</code>
+			<name>Indian rupee</name>
+			<symbol>₹</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>hi</iso639_1>
+			<iso639_2>hin</iso639_2>
+			<name>Hindi</name>
+			<nativeName>हिन्दी</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>India</name>
+		<capital>New Delhi</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>1295210000</population>
+	</104>
+	<105>
+		<currencies>
+			<code>IDR</code>
+			<name>Indonesian rupiah</name>
+			<symbol>Rp</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>id</iso639_1>
+			<iso639_2>ind</iso639_2>
+			<name>Indonesian</name>
+			<nativeName>Bahasa Indonesia</nativeName>
+		</languages>
+		<name>Indonesia</name>
+		<capital>Jakarta</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>258705000</population>
+	</105>
+	<106>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Côte d'Ivoire</name>
+		<capital>Yamoussoukro</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>22671331</population>
+	</106>
+	<107>
+		<currencies>
+			<code>IRR</code>
+			<name>Iranian rial</name>
+			<symbol>﷼</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fa</iso639_1>
+			<iso639_2>fas</iso639_2>
+			<name>Persian (Farsi)</name>
+			<nativeName>فارسی</nativeName>
+		</languages>
+		<name>Iran (Islamic Republic of)</name>
+		<capital>Tehran</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>79369900</population>
+	</107>
+	<108>
+		<currencies>
+			<code>IQD</code>
+			<name>Iraqi dinar</name>
+			<symbol>ع.د</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ku</iso639_1>
+			<iso639_2>kur</iso639_2>
+			<name>Kurdish</name>
+			<nativeName>Kurdî</nativeName>
+		</languages>
+		<name>Iraq</name>
+		<capital>Baghdad</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>37883543</population>
+	</108>
+	<109>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ga</iso639_1>
+			<iso639_2>gle</iso639_2>
+			<name>Irish</name>
+			<nativeName>Gaeilge</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Ireland</name>
+		<capital>Dublin</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>6378000</population>
+	</109>
+	<110>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<currencies>
+			<code>IMP[G]</code>
+			<name>Manx pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>gv</iso639_1>
+			<iso639_2>glv</iso639_2>
+			<name>Manx</name>
+			<nativeName>Gaelg</nativeName>
+		</languages>
+		<name>Isle of Man</name>
+		<capital>Douglas</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>84497</population>
+	</110>
+	<111>
+		<currencies>
+			<code>ILS</code>
+			<name>Israeli new shekel</name>
+			<symbol>₪</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>he</iso639_1>
+			<iso639_2>heb</iso639_2>
+			<name>Hebrew (modern)</name>
+			<nativeName>עברית</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Israel</name>
+		<capital>Jerusalem</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>8527400</population>
+	</111>
+	<112>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>it</iso639_1>
+			<iso639_2>ita</iso639_2>
+			<name>Italian</name>
+			<nativeName>Italiano</nativeName>
+		</languages>
+		<name>Italy</name>
+		<capital>Rome</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>60665551</population>
+	</112>
+	<113>
+		<currencies>
+			<code>JMD</code>
+			<name>Jamaican dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Jamaica</name>
+		<capital>Kingston</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>2723246</population>
+	</113>
+	<114>
+		<currencies>
+			<code>JPY</code>
+			<name>Japanese yen</name>
+			<symbol>¥</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ja</iso639_1>
+			<iso639_2>jpn</iso639_2>
+			<name>Japanese</name>
+			<nativeName>日本語 (にほんご)</nativeName>
+		</languages>
+		<name>Japan</name>
+		<capital>Tokyo</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>126960000</population>
+	</114>
+	<115>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<currencies>
+			<code>JEP[G]</code>
+			<name>Jersey pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Jersey</name>
+		<capital>Saint Helier</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>100800</population>
+	</115>
+	<116>
+		<currencies>
+			<code>JOD</code>
+			<name>Jordanian dinar</name>
+			<symbol>د.ا</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Jordan</name>
+		<capital>Amman</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>9531712</population>
+	</116>
+	<117>
+		<currencies>
+			<code>KZT</code>
+			<name>Kazakhstani tenge</name>
+		</currencies>
+		<languages>
+			<iso639_1>kk</iso639_1>
+			<iso639_2>kaz</iso639_2>
+			<name>Kazakh</name>
+			<nativeName>қазақ тілі</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Kazakhstan</name>
+		<capital>Astana</capital>
+		<region>Asia</region>
+		<subregion>Central Asia</subregion>
+		<population>17753200</population>
+	</117>
+	<118>
+		<currencies>
+			<code>KES</code>
+			<name>Kenyan shilling</name>
+			<symbol>Sh</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sw</iso639_1>
+			<iso639_2>swa</iso639_2>
+			<name>Swahili</name>
+			<nativeName>Kiswahili</nativeName>
+		</languages>
+		<name>Kenya</name>
+		<capital>Nairobi</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>47251000</population>
+	</118>
+	<119>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+			<name>Kiribati dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Kiribati</name>
+		<capital>South Tarawa</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>113400</population>
+	</119>
+	<120>
+		<currencies>
+			<code>KWD</code>
+			<name>Kuwaiti dinar</name>
+			<symbol>د.ك</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Kuwait</name>
+		<capital>Kuwait City</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>4183658</population>
+	</120>
+	<121>
+		<currencies>
+			<code>KGS</code>
+			<name>Kyrgyzstani som</name>
+			<symbol>с</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ky</iso639_1>
+			<iso639_2>kir</iso639_2>
+			<name>Kyrgyz</name>
+			<nativeName>Кыргызча</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Kyrgyzstan</name>
+		<capital>Bishkek</capital>
+		<region>Asia</region>
+		<subregion>Central Asia</subregion>
+		<population>6047800</population>
+	</121>
+	<122>
+		<currencies>
+			<code>LAK</code>
+			<name>Lao kip</name>
+			<symbol>₭</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>lo</iso639_1>
+			<iso639_2>lao</iso639_2>
+			<name>Lao</name>
+			<nativeName>ພາສາລາວ</nativeName>
+		</languages>
+		<name>Lao People's Democratic Republic</name>
+		<capital>Vientiane</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>6492400</population>
+	</122>
+	<123>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>lv</iso639_1>
+			<iso639_2>lav</iso639_2>
+			<name>Latvian</name>
+			<nativeName>latviešu valoda</nativeName>
+		</languages>
+		<name>Latvia</name>
+		<capital>Riga</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>1961600</population>
+	</123>
+	<124>
+		<currencies>
+			<code>LBP</code>
+			<name>Lebanese pound</name>
+			<symbol>ل.ل</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Lebanon</name>
+		<capital>Beirut</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>5988000</population>
+	</124>
+	<125>
+		<currencies>
+			<code>LSL</code>
+			<name>Lesotho loti</name>
+			<symbol>L</symbol>
+		</currencies>
+		<currencies>
+			<code>ZAR</code>
+			<name>South African rand</name>
+			<symbol>R</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>st</iso639_1>
+			<iso639_2>sot</iso639_2>
+			<name>Southern Sotho</name>
+			<nativeName>Sesotho</nativeName>
+		</languages>
+		<name>Lesotho</name>
+		<capital>Maseru</capital>
+		<region>Africa</region>
+		<subregion>Southern Africa</subregion>
+		<population>1894194</population>
+	</125>
+	<126>
+		<currencies>
+			<code>LRD</code>
+			<name>Liberian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Liberia</name>
+		<capital>Monrovia</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>4615000</population>
+	</126>
+	<127>
+		<currencies>
+			<code>LYD</code>
+			<name>Libyan dinar</name>
+			<symbol>ل.د</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Libya</name>
+		<capital>Tripoli</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>6385000</population>
+	</127>
+	<128>
+		<currencies>
+			<code>CHF</code>
+			<name>Swiss franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<name>Liechtenstein</name>
+		<capital>Vaduz</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>37623</population>
+	</128>
+	<129>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>lt</iso639_1>
+			<iso639_2>lit</iso639_2>
+			<name>Lithuanian</name>
+			<nativeName>lietuvių kalba</nativeName>
+		</languages>
+		<name>Lithuania</name>
+		<capital>Vilnius</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>2872294</population>
+	</129>
+	<130>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>lb</iso639_1>
+			<iso639_2>ltz</iso639_2>
+			<name>Luxembourgish</name>
+			<nativeName>Lëtzebuergesch</nativeName>
+		</languages>
+		<name>Luxembourg</name>
+		<capital>Luxembourg</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>576200</population>
+	</130>
+	<131>
+		<currencies>
+			<code>MOP</code>
+			<name>Macanese pataca</name>
+			<symbol>P</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>zh</iso639_1>
+			<iso639_2>zho</iso639_2>
+			<name>Chinese</name>
+			<nativeName>中文 (Zhōngwén)</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Macao</name>
+		<capital></capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>649100</population>
+	</131>
+	<132>
+		<currencies>
+			<code>MKD</code>
+			<name>Macedonian denar</name>
+			<symbol>ден</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>mk</iso639_1>
+			<iso639_2>mkd</iso639_2>
+			<name>Macedonian</name>
+			<nativeName>македонски јазик</nativeName>
+		</languages>
+		<name>Macedonia (the former Yugoslav Republic of)</name>
+		<capital>Skopje</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>2058539</population>
+	</132>
+	<133>
+		<currencies>
+			<code>MGA</code>
+			<name>Malagasy ariary</name>
+			<symbol>Ar</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>mg</iso639_1>
+			<iso639_2>mlg</iso639_2>
+			<name>Malagasy</name>
+			<nativeName>fiteny malagasy</nativeName>
+		</languages>
+		<name>Madagascar</name>
+		<capital>Antananarivo</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>22434363</population>
+	</133>
+	<134>
+		<currencies>
+			<code>MWK</code>
+			<name>Malawian kwacha</name>
+			<symbol>MK</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ny</iso639_1>
+			<iso639_2>nya</iso639_2>
+			<name>Chichewa</name>
+			<nativeName>chiCheŵa</nativeName>
+		</languages>
+		<name>Malawi</name>
+		<capital>Lilongwe</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>16832910</population>
+	</134>
+	<135>
+		<currencies>
+			<code>MYR</code>
+			<name>Malaysian ringgit</name>
+			<symbol>RM</symbol>
+		</currencies>
+		<languages>
+			<iso639_2>zsm</iso639_2>
+			<name>Malaysian</name>
+			<nativeName>بهاس مليسيا</nativeName>
+		</languages>
+		<name>Malaysia</name>
+		<capital>Kuala Lumpur</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>31405416</population>
+	</135>
+	<136>
+		<currencies>
+			<code>MVR</code>
+			<name>Maldivian rufiyaa</name>
+			<symbol>.ރ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>dv</iso639_1>
+			<iso639_2>div</iso639_2>
+			<name>Divehi</name>
+			<nativeName>ދިވެހި</nativeName>
+		</languages>
+		<name>Maldives</name>
+		<capital>Malé</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>344023</population>
+	</136>
+	<137>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Mali</name>
+		<capital>Bamako</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>18135000</population>
+	</137>
+	<138>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>mt</iso639_1>
+			<iso639_2>mlt</iso639_2>
+			<name>Maltese</name>
+			<nativeName>Malti</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Malta</name>
+		<capital>Valletta</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>425384</population>
+	</138>
+	<139>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>mh</iso639_1>
+			<iso639_2>mah</iso639_2>
+			<name>Marshallese</name>
+			<nativeName>Kajin M̧ajeļ</nativeName>
+		</languages>
+		<name>Marshall Islands</name>
+		<capital>Majuro</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>54880</population>
+	</139>
+	<140>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Martinique</name>
+		<capital>Fort-de-France</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>378243</population>
+	</140>
+	<141>
+		<currencies>
+			<code>MRO</code>
+			<name>Mauritanian ouguiya</name>
+			<symbol>UM</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Mauritania</name>
+		<capital>Nouakchott</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>3718678</population>
+	</141>
+	<142>
+		<currencies>
+			<code>MUR</code>
+			<name>Mauritian rupee</name>
+			<symbol>₨</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Mauritius</name>
+		<capital>Port Louis</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>1262879</population>
+	</142>
+	<143>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Mayotte</name>
+		<capital>Mamoudzou</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>226915</population>
+	</143>
+	<144>
+		<currencies>
+			<code>MXN</code>
+			<name>Mexican peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Mexico</name>
+		<capital>Mexico City</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>122273473</population>
+	</144>
+	<145>
+		<currencies>
+			<name>[D]</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Micronesia (Federated States of)</name>
+		<capital>Palikir</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>102800</population>
+	</145>
+	<146>
+		<currencies>
+			<code>MDL</code>
+			<name>Moldovan leu</name>
+			<symbol>L</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ro</iso639_1>
+			<iso639_2>ron</iso639_2>
+			<name>Romanian</name>
+			<nativeName>Română</nativeName>
+		</languages>
+		<name>Moldova (Republic of)</name>
+		<capital>Chișinău</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>3553100</population>
+	</146>
+	<147>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Monaco</name>
+		<capital>Monaco</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>38400</population>
+	</147>
+	<148>
+		<currencies>
+			<code>MNT</code>
+			<name>Mongolian tögrög</name>
+			<symbol>₮</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>mn</iso639_1>
+			<iso639_2>mon</iso639_2>
+			<name>Mongolian</name>
+			<nativeName>Монгол хэл</nativeName>
+		</languages>
+		<name>Mongolia</name>
+		<capital>Ulan Bator</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>3093100</population>
+	</148>
+	<149>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sr</iso639_1>
+			<iso639_2>srp</iso639_2>
+			<name>Serbian</name>
+			<nativeName>српски језик</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>bs</iso639_1>
+			<iso639_2>bos</iso639_2>
+			<name>Bosnian</name>
+			<nativeName>bosanski jezik</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sq</iso639_1>
+			<iso639_2>sqi</iso639_2>
+			<name>Albanian</name>
+			<nativeName>Shqip</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>hr</iso639_1>
+			<iso639_2>hrv</iso639_2>
+			<name>Croatian</name>
+			<nativeName>hrvatski jezik</nativeName>
+		</languages>
+		<name>Montenegro</name>
+		<capital>Podgorica</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>621810</population>
+	</149>
+	<150>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Montserrat</name>
+		<capital>Plymouth</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>4922</population>
+	</150>
+	<151>
+		<currencies>
+			<code>MAD</code>
+			<name>Moroccan dirham</name>
+			<symbol>د.م.</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Morocco</name>
+		<capital>Rabat</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>33337529</population>
+	</151>
+	<152>
+		<currencies>
+			<code>MZN</code>
+			<name>Mozambican metical</name>
+			<symbol>MT</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Mozambique</name>
+		<capital>Maputo</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>26423700</population>
+	</152>
+	<153>
+		<currencies>
+			<code>MMK</code>
+			<name>Burmese kyat</name>
+			<symbol>Ks</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>my</iso639_1>
+			<iso639_2>mya</iso639_2>
+			<name>Burmese</name>
+			<nativeName>ဗမာစာ</nativeName>
+		</languages>
+		<name>Myanmar</name>
+		<capital>Naypyidaw</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>51419420</population>
+	</153>
+	<154>
+		<currencies>
+			<code>NAD</code>
+			<name>Namibian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>ZAR</code>
+			<name>South African rand</name>
+			<symbol>R</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>af</iso639_1>
+			<iso639_2>afr</iso639_2>
+			<name>Afrikaans</name>
+			<nativeName>Afrikaans</nativeName>
+		</languages>
+		<name>Namibia</name>
+		<capital>Windhoek</capital>
+		<region>Africa</region>
+		<subregion>Southern Africa</subregion>
+		<population>2324388</population>
+	</154>
+	<155>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>na</iso639_1>
+			<iso639_2>nau</iso639_2>
+			<name>Nauruan</name>
+			<nativeName>Dorerin Naoero</nativeName>
+		</languages>
+		<name>Nauru</name>
+		<capital>Yaren</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>10084</population>
+	</155>
+	<156>
+		<currencies>
+			<code>NPR</code>
+			<name>Nepalese rupee</name>
+			<symbol>₨</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ne</iso639_1>
+			<iso639_2>nep</iso639_2>
+			<name>Nepali</name>
+			<nativeName>नेपाली</nativeName>
+		</languages>
+		<name>Nepal</name>
+		<capital>Kathmandu</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>28431500</population>
+	</156>
+	<157>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<name>Netherlands</name>
+		<capital>Amsterdam</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>17019800</population>
+	</157>
+	<158>
+		<currencies>
+			<code>XPF</code>
+			<name>CFP franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>New Caledonia</name>
+		<capital>Nouméa</capital>
+		<region>Oceania</region>
+		<subregion>Melanesia</subregion>
+		<population>268767</population>
+	</158>
+	<159>
+		<currencies>
+			<code>NZD</code>
+			<name>New Zealand dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>mi</iso639_1>
+			<iso639_2>mri</iso639_2>
+			<name>Māori</name>
+			<nativeName>te reo Māori</nativeName>
+		</languages>
+		<name>New Zealand</name>
+		<capital>Wellington</capital>
+		<region>Oceania</region>
+		<subregion>Australia and New Zealand</subregion>
+		<population>4697854</population>
+	</159>
+	<160>
+		<currencies>
+			<code>NIO</code>
+			<name>Nicaraguan córdoba</name>
+			<symbol>C$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Nicaragua</name>
+		<capital>Managua</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>6262703</population>
+	</160>
+	<161>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Niger</name>
+		<capital>Niamey</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>20715000</population>
+	</161>
+	<162>
+		<currencies>
+			<code>NGN</code>
+			<name>Nigerian naira</name>
+			<symbol>₦</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Nigeria</name>
+		<capital>Abuja</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>186988000</population>
+	</162>
+	<163>
+		<currencies>
+			<code>NZD</code>
+			<name>New Zealand dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+			<name>Niue dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Niue</name>
+		<capital>Alofi</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>1470</population>
+	</163>
+	<164>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Norfolk Island</name>
+		<capital>Kingston</capital>
+		<region>Oceania</region>
+		<subregion>Australia and New Zealand</subregion>
+		<population>2302</population>
+	</164>
+	<165>
+		<currencies>
+			<code>KPW</code>
+			<name>North Korean won</name>
+			<symbol>₩</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ko</iso639_1>
+			<iso639_2>kor</iso639_2>
+			<name>Korean</name>
+			<nativeName>한국어</nativeName>
+		</languages>
+		<name>Korea (Democratic People's Republic of)</name>
+		<capital>Pyongyang</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>25281000</population>
+	</165>
+	<166>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ch</iso639_1>
+			<iso639_2>cha</iso639_2>
+			<name>Chamorro</name>
+			<nativeName>Chamoru</nativeName>
+		</languages>
+		<name>Northern Mariana Islands</name>
+		<capital>Saipan</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>56940</population>
+	</166>
+	<167>
+		<currencies>
+			<code>NOK</code>
+			<name>Norwegian krone</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>no</iso639_1>
+			<iso639_2>nor</iso639_2>
+			<name>Norwegian</name>
+			<nativeName>Norsk</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nb</iso639_1>
+			<iso639_2>nob</iso639_2>
+			<name>Norwegian Bokmål</name>
+			<nativeName>Norsk bokmål</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nn</iso639_1>
+			<iso639_2>nno</iso639_2>
+			<name>Norwegian Nynorsk</name>
+			<nativeName>Norsk nynorsk</nativeName>
+		</languages>
+		<name>Norway</name>
+		<capital>Oslo</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>5223256</population>
+	</167>
+	<168>
+		<currencies>
+			<code>OMR</code>
+			<name>Omani rial</name>
+			<symbol>ر.ع.</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Oman</name>
+		<capital>Muscat</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>4420133</population>
+	</168>
+	<169>
+		<currencies>
+			<code>PKR</code>
+			<name>Pakistani rupee</name>
+			<symbol>₨</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ur</iso639_1>
+			<iso639_2>urd</iso639_2>
+			<name>Urdu</name>
+			<nativeName>اردو</nativeName>
+		</languages>
+		<name>Pakistan</name>
+		<capital>Islamabad</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>194125062</population>
+	</169>
+	<170>
+		<currencies>
+			<code>(none)</code>
+			<name>[E]</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Palau</name>
+		<capital>Ngerulmud</capital>
+		<region>Oceania</region>
+		<subregion>Micronesia</subregion>
+		<population>17950</population>
+	</170>
+	<171>
+		<currencies>
+			<code>ILS</code>
+			<name>Israeli new sheqel</name>
+			<symbol>₪</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Palestine, State of</name>
+		<capital>Ramallah</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>4682467</population>
+	</171>
+	<172>
+		<currencies>
+			<code>PAB</code>
+			<name>Panamanian balboa</name>
+			<symbol>B/.</symbol>
+		</currencies>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Panama</name>
+		<capital>Panama City</capital>
+		<region>Americas</region>
+		<subregion>Central America</subregion>
+		<population>3814672</population>
+	</172>
+	<173>
+		<currencies>
+			<code>PGK</code>
+			<name>Papua New Guinean kina</name>
+			<symbol>K</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Papua New Guinea</name>
+		<capital>Port Moresby</capital>
+		<region>Oceania</region>
+		<subregion>Melanesia</subregion>
+		<population>8083700</population>
+	</173>
+	<174>
+		<currencies>
+			<code>PYG</code>
+			<name>Paraguayan guaraní</name>
+			<symbol>₲</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>gn</iso639_1>
+			<iso639_2>grn</iso639_2>
+			<name>Guaraní</name>
+			<nativeName>Avañe'ẽ</nativeName>
+		</languages>
+		<name>Paraguay</name>
+		<capital>Asunción</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>6854536</population>
+	</174>
+	<175>
+		<currencies>
+			<code>PEN</code>
+			<name>Peruvian sol</name>
+			<symbol>S/.</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Peru</name>
+		<capital>Lima</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>31488700</population>
+	</175>
+	<176>
+		<currencies>
+			<code>PHP</code>
+			<name>Philippine peso</name>
+			<symbol>₱</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Philippines</name>
+		<capital>Manila</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>103279800</population>
+	</176>
+	<177>
+		<currencies>
+			<code>NZD</code>
+			<name>New Zealand dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<name>Pitcairn Islands dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Pitcairn</name>
+		<capital>Adamstown</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>56</population>
+	</177>
+	<178>
+		<currencies>
+			<code>PLN</code>
+			<name>Polish złoty</name>
+			<symbol>zł</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pl</iso639_1>
+			<iso639_2>pol</iso639_2>
+			<name>Polish</name>
+			<nativeName>język polski</nativeName>
+		</languages>
+		<name>Poland</name>
+		<capital>Warsaw</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>38437239</population>
+	</178>
+	<179>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Portugal</name>
+		<capital>Lisbon</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>10374822</population>
+	</179>
+	<180>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Puerto Rico</name>
+		<capital>San Juan</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>3474182</population>
+	</180>
+	<181>
+		<currencies>
+			<code>QAR</code>
+			<name>Qatari riyal</name>
+			<symbol>ر.ق</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Qatar</name>
+		<capital>Doha</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>2587564</population>
+	</181>
+	<182>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sq</iso639_1>
+			<iso639_2>sqi</iso639_2>
+			<name>Albanian</name>
+			<nativeName>Shqip</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sr</iso639_1>
+			<iso639_2>srp</iso639_2>
+			<name>Serbian</name>
+			<nativeName>српски језик</nativeName>
+		</languages>
+		<name>Republic of Kosovo</name>
+		<capital>Pristina</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>1733842</population>
+	</182>
+	<183>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Réunion</name>
+		<capital>Saint-Denis</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>840974</population>
+	</183>
+	<184>
+		<currencies>
+			<code>RON</code>
+			<name>Romanian leu</name>
+			<symbol>lei</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ro</iso639_1>
+			<iso639_2>ron</iso639_2>
+			<name>Romanian</name>
+			<nativeName>Română</nativeName>
+		</languages>
+		<name>Romania</name>
+		<capital>Bucharest</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>19861408</population>
+	</184>
+	<185>
+		<currencies>
+			<code>RUB</code>
+			<name>Russian ruble</name>
+			<symbol>₽</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Russian Federation</name>
+		<capital>Moscow</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>146599183</population>
+	</185>
+	<186>
+		<currencies>
+			<code>RWF</code>
+			<name>Rwandan franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>rw</iso639_1>
+			<iso639_2>kin</iso639_2>
+			<name>Kinyarwanda</name>
+			<nativeName>Ikinyarwanda</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Rwanda</name>
+		<capital>Kigali</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>11553188</population>
+	</186>
+	<187>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Saint Barthélemy</name>
+		<capital>Gustavia</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>9417</population>
+	</187>
+	<188>
+		<currencies>
+			<code>SHP</code>
+			<name>Saint Helena pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Saint Helena, Ascension and Tristan da Cunha</name>
+		<capital>Jamestown</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>4255</population>
+	</188>
+	<189>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Saint Kitts and Nevis</name>
+		<capital>Basseterre</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>46204</population>
+	</189>
+	<190>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Saint Lucia</name>
+		<capital>Castries</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>186000</population>
+	</190>
+	<191>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<name>Saint Martin (French part)</name>
+		<capital>Marigot</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>36979</population>
+	</191>
+	<192>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Saint Pierre and Miquelon</name>
+		<capital>Saint-Pierre</capital>
+		<region>Americas</region>
+		<subregion>Northern America</subregion>
+		<population>6069</population>
+	</192>
+	<193>
+		<currencies>
+			<code>XCD</code>
+			<name>East Caribbean dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Saint Vincent and the Grenadines</name>
+		<capital>Kingstown</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>109991</population>
+	</193>
+	<194>
+		<currencies>
+			<code>WST</code>
+			<name>Samoan tālā</name>
+			<symbol>T</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sm</iso639_1>
+			<iso639_2>smo</iso639_2>
+			<name>Samoan</name>
+			<nativeName>gagana fa'a Samoa</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Samoa</name>
+		<capital>Apia</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>194899</population>
+	</194>
+	<195>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>it</iso639_1>
+			<iso639_2>ita</iso639_2>
+			<name>Italian</name>
+			<nativeName>Italiano</nativeName>
+		</languages>
+		<name>San Marino</name>
+		<capital>City of San Marino</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>33005</population>
+	</195>
+	<196>
+		<currencies>
+			<code>STD</code>
+			<name>São Tomé and Príncipe dobra</name>
+			<symbol>Db</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Sao Tome and Principe</name>
+		<capital>São Tomé</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>187356</population>
+	</196>
+	<197>
+		<currencies>
+			<code>SAR</code>
+			<name>Saudi riyal</name>
+			<symbol>ر.س</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Saudi Arabia</name>
+		<capital>Riyadh</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>32248200</population>
+	</197>
+	<198>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Senegal</name>
+		<capital>Dakar</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>14799859</population>
+	</198>
+	<199>
+		<currencies>
+			<code>RSD</code>
+			<name>Serbian dinar</name>
+			<symbol>дин.</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sr</iso639_1>
+			<iso639_2>srp</iso639_2>
+			<name>Serbian</name>
+			<nativeName>српски језик</nativeName>
+		</languages>
+		<name>Serbia</name>
+		<capital>Belgrade</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>7076372</population>
+	</199>
+	<200>
+		<currencies>
+			<code>SCR</code>
+			<name>Seychellois rupee</name>
+			<symbol>₨</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Seychelles</name>
+		<capital>Victoria</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>91400</population>
+	</200>
+	<201>
+		<currencies>
+			<code>SLL</code>
+			<name>Sierra Leonean leone</name>
+			<symbol>Le</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Sierra Leone</name>
+		<capital>Freetown</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>7075641</population>
+	</201>
+	<202>
+		<currencies>
+			<code>BND</code>
+			<name>Brunei dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>SGD</code>
+			<name>Singapore dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ms</iso639_1>
+			<iso639_2>msa</iso639_2>
+			<name>Malay</name>
+			<nativeName>bahasa Melayu</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ta</iso639_1>
+			<iso639_2>tam</iso639_2>
+			<name>Tamil</name>
+			<nativeName>தமிழ்</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>zh</iso639_1>
+			<iso639_2>zho</iso639_2>
+			<name>Chinese</name>
+			<nativeName>中文 (Zhōngwén)</nativeName>
+		</languages>
+		<name>Singapore</name>
+		<capital>Singapore</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>5535000</population>
+	</202>
+	<203>
+		<currencies>
+			<code>ANG</code>
+			<name>Netherlands Antillean guilder</name>
+			<symbol>ƒ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Sint Maarten (Dutch part)</name>
+		<capital>Philipsburg</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>38247</population>
+	</203>
+	<204>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sk</iso639_1>
+			<iso639_2>slk</iso639_2>
+			<name>Slovak</name>
+			<nativeName>slovenčina</nativeName>
+		</languages>
+		<name>Slovakia</name>
+		<capital>Bratislava</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>5426252</population>
+	</204>
+	<205>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sl</iso639_1>
+			<iso639_2>slv</iso639_2>
+			<name>Slovene</name>
+			<nativeName>slovenski jezik</nativeName>
+		</languages>
+		<name>Slovenia</name>
+		<capital>Ljubljana</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>2064188</population>
+	</205>
+	<206>
+		<currencies>
+			<code>SBD</code>
+			<name>Solomon Islands dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Solomon Islands</name>
+		<capital>Honiara</capital>
+		<region>Oceania</region>
+		<subregion>Melanesia</subregion>
+		<population>642000</population>
+	</206>
+	<207>
+		<currencies>
+			<code>SOS</code>
+			<name>Somali shilling</name>
+			<symbol>Sh</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>so</iso639_1>
+			<iso639_2>som</iso639_2>
+			<name>Somali</name>
+			<nativeName>Soomaaliga</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Somalia</name>
+		<capital>Mogadishu</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>11079000</population>
+	</207>
+	<208>
+		<currencies>
+			<code>ZAR</code>
+			<name>South African rand</name>
+			<symbol>R</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>af</iso639_1>
+			<iso639_2>afr</iso639_2>
+			<name>Afrikaans</name>
+			<nativeName>Afrikaans</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nr</iso639_1>
+			<iso639_2>nbl</iso639_2>
+			<name>Southern Ndebele</name>
+			<nativeName>isiNdebele</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>st</iso639_1>
+			<iso639_2>sot</iso639_2>
+			<name>Southern Sotho</name>
+			<nativeName>Sesotho</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ss</iso639_1>
+			<iso639_2>ssw</iso639_2>
+			<name>Swati</name>
+			<nativeName>SiSwati</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>tn</iso639_1>
+			<iso639_2>tsn</iso639_2>
+			<name>Tswana</name>
+			<nativeName>Setswana</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ts</iso639_1>
+			<iso639_2>tso</iso639_2>
+			<name>Tsonga</name>
+			<nativeName>Xitsonga</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ve</iso639_1>
+			<iso639_2>ven</iso639_2>
+			<name>Venda</name>
+			<nativeName>Tshivenḓa</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>xh</iso639_1>
+			<iso639_2>xho</iso639_2>
+			<name>Xhosa</name>
+			<nativeName>isiXhosa</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>zu</iso639_1>
+			<iso639_2>zul</iso639_2>
+			<name>Zulu</name>
+			<nativeName>isiZulu</nativeName>
+		</languages>
+		<name>South Africa</name>
+		<capital>Pretoria</capital>
+		<region>Africa</region>
+		<subregion>Southern Africa</subregion>
+		<population>55653654</population>
+	</208>
+	<209>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>South Georgia and the South Sandwich Islands</name>
+		<capital>King Edward Point</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>30</population>
+	</209>
+	<210>
+		<currencies>
+			<code>KRW</code>
+			<name>South Korean won</name>
+			<symbol>₩</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ko</iso639_1>
+			<iso639_2>kor</iso639_2>
+			<name>Korean</name>
+			<nativeName>한국어</nativeName>
+		</languages>
+		<name>Korea (Republic of)</name>
+		<capital>Seoul</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>50801405</population>
+	</210>
+	<211>
+		<currencies>
+			<code>SSP</code>
+			<name>South Sudanese pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>South Sudan</name>
+		<capital>Juba</capital>
+		<region>Africa</region>
+		<subregion>Middle Africa</subregion>
+		<population>12131000</population>
+	</211>
+	<212>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Spain</name>
+		<capital>Madrid</capital>
+		<region>Europe</region>
+		<subregion>Southern Europe</subregion>
+		<population>46438422</population>
+	</212>
+	<213>
+		<currencies>
+			<code>LKR</code>
+			<name>Sri Lankan rupee</name>
+			<symbol>Rs</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>si</iso639_1>
+			<iso639_2>sin</iso639_2>
+			<name>Sinhalese</name>
+			<nativeName>සිංහල</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ta</iso639_1>
+			<iso639_2>tam</iso639_2>
+			<name>Tamil</name>
+			<nativeName>தமிழ்</nativeName>
+		</languages>
+		<name>Sri Lanka</name>
+		<capital>Colombo</capital>
+		<region>Asia</region>
+		<subregion>Southern Asia</subregion>
+		<population>20966000</population>
+	</213>
+	<214>
+		<currencies>
+			<code>SDG</code>
+			<name>Sudanese pound</name>
+			<symbol>ج.س.</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Sudan</name>
+		<capital>Khartoum</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>39598700</population>
+	</214>
+	<215>
+		<currencies>
+			<code>SRD</code>
+			<name>Surinamese dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>nl</iso639_1>
+			<iso639_2>nld</iso639_2>
+			<name>Dutch</name>
+			<nativeName>Nederlands</nativeName>
+		</languages>
+		<name>Suriname</name>
+		<capital>Paramaribo</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>541638</population>
+	</215>
+	<216>
+		<currencies>
+			<code>NOK</code>
+			<name>Norwegian krone</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>no</iso639_1>
+			<iso639_2>nor</iso639_2>
+			<name>Norwegian</name>
+			<nativeName>Norsk</nativeName>
+		</languages>
+		<name>Svalbard and Jan Mayen</name>
+		<capital>Longyearbyen</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>2562</population>
+	</216>
+	<217>
+		<currencies>
+			<code>SZL</code>
+			<name>Swazi lilangeni</name>
+			<symbol>L</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ss</iso639_1>
+			<iso639_2>ssw</iso639_2>
+			<name>Swati</name>
+			<nativeName>SiSwati</nativeName>
+		</languages>
+		<name>Swaziland</name>
+		<capital>Lobamba</capital>
+		<region>Africa</region>
+		<subregion>Southern Africa</subregion>
+		<population>1132657</population>
+	</217>
+	<218>
+		<currencies>
+			<code>SEK</code>
+			<name>Swedish krona</name>
+			<symbol>kr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sv</iso639_1>
+			<iso639_2>swe</iso639_2>
+			<name>Swedish</name>
+			<nativeName>svenska</nativeName>
+		</languages>
+		<name>Sweden</name>
+		<capital>Stockholm</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>9894888</population>
+	</218>
+	<219>
+		<currencies>
+			<code>CHF</code>
+			<name>Swiss franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>de</iso639_1>
+			<iso639_2>deu</iso639_2>
+			<name>German</name>
+			<nativeName>Deutsch</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>it</iso639_1>
+			<iso639_2>ita</iso639_2>
+			<name>Italian</name>
+			<nativeName>Italiano</nativeName>
+		</languages>
+		<name>Switzerland</name>
+		<capital>Bern</capital>
+		<region>Europe</region>
+		<subregion>Western Europe</subregion>
+		<population>8341600</population>
+	</219>
+	<220>
+		<currencies>
+			<code>SYP</code>
+			<name>Syrian pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Syrian Arab Republic</name>
+		<capital>Damascus</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>18564000</population>
+	</220>
+	<221>
+		<currencies>
+			<code>TWD</code>
+			<name>New Taiwan dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>zh</iso639_1>
+			<iso639_2>zho</iso639_2>
+			<name>Chinese</name>
+			<nativeName>中文 (Zhōngwén)</nativeName>
+		</languages>
+		<name>Taiwan</name>
+		<capital>Taipei</capital>
+		<region>Asia</region>
+		<subregion>Eastern Asia</subregion>
+		<population>23503349</population>
+	</221>
+	<222>
+		<currencies>
+			<code>TJS</code>
+			<name>Tajikistani somoni</name>
+			<symbol>ЅМ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>tg</iso639_1>
+			<iso639_2>tgk</iso639_2>
+			<name>Tajik</name>
+			<nativeName>тоҷикӣ</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Tajikistan</name>
+		<capital>Dushanbe</capital>
+		<region>Asia</region>
+		<subregion>Central Asia</subregion>
+		<population>8593600</population>
+	</222>
+	<223>
+		<currencies>
+			<code>TZS</code>
+			<name>Tanzanian shilling</name>
+			<symbol>Sh</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>sw</iso639_1>
+			<iso639_2>swa</iso639_2>
+			<name>Swahili</name>
+			<nativeName>Kiswahili</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Tanzania, United Republic of</name>
+		<capital>Dodoma</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>55155000</population>
+	</223>
+	<224>
+		<currencies>
+			<code>THB</code>
+			<name>Thai baht</name>
+			<symbol>฿</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>th</iso639_1>
+			<iso639_2>tha</iso639_2>
+			<name>Thai</name>
+			<nativeName>ไทย</nativeName>
+		</languages>
+		<name>Thailand</name>
+		<capital>Bangkok</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>65327652</population>
+	</224>
+	<225>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies />
+		<languages>
+			<iso639_1>pt</iso639_1>
+			<iso639_2>por</iso639_2>
+			<name>Portuguese</name>
+			<nativeName>Português</nativeName>
+		</languages>
+		<name>Timor-Leste</name>
+		<capital>Dili</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>1167242</population>
+	</225>
+	<226>
+		<currencies>
+			<code>XOF</code>
+			<name>West African CFA franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Togo</name>
+		<capital>Lomé</capital>
+		<region>Africa</region>
+		<subregion>Western Africa</subregion>
+		<population>7143000</population>
+	</226>
+	<227>
+		<currencies>
+			<code>NZD</code>
+			<name>New Zealand dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Tokelau</name>
+		<capital>Fakaofo</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>1411</population>
+	</227>
+	<228>
+		<currencies>
+			<code>TOP</code>
+			<name>Tongan paʻanga</name>
+			<symbol>T$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>to</iso639_1>
+			<iso639_2>ton</iso639_2>
+			<name>Tonga (Tonga Islands)</name>
+			<nativeName>faka Tonga</nativeName>
+		</languages>
+		<name>Tonga</name>
+		<capital>Nuku'alofa</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>103252</population>
+	</228>
+	<229>
+		<currencies>
+			<code>TTD</code>
+			<name>Trinidad and Tobago dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Trinidad and Tobago</name>
+		<capital>Port of Spain</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>1349667</population>
+	</229>
+	<230>
+		<currencies>
+			<code>TND</code>
+			<name>Tunisian dinar</name>
+			<symbol>د.ت</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Tunisia</name>
+		<capital>Tunis</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>11154400</population>
+	</230>
+	<231>
+		<currencies>
+			<code>TRY</code>
+			<name>Turkish lira</name>
+		</currencies>
+		<languages>
+			<iso639_1>tr</iso639_1>
+			<iso639_2>tur</iso639_2>
+			<name>Turkish</name>
+			<nativeName>Türkçe</nativeName>
+		</languages>
+		<name>Turkey</name>
+		<capital>Ankara</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>78741053</population>
+	</231>
+	<232>
+		<currencies>
+			<code>TMT</code>
+			<name>Turkmenistan manat</name>
+			<symbol>m</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>tk</iso639_1>
+			<iso639_2>tuk</iso639_2>
+			<name>Turkmen</name>
+			<nativeName>Türkmen</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Turkmenistan</name>
+		<capital>Ashgabat</capital>
+		<region>Asia</region>
+		<subregion>Central Asia</subregion>
+		<population>4751120</population>
+	</232>
+	<233>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Turks and Caicos Islands</name>
+		<capital>Cockburn Town</capital>
+		<region>Americas</region>
+		<subregion>Caribbean</subregion>
+		<population>31458</population>
+	</233>
+	<234>
+		<currencies>
+			<code>AUD</code>
+			<name>Australian dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>TVD[G]</code>
+			<name>Tuvaluan dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Tuvalu</name>
+		<capital>Funafuti</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>10640</population>
+	</234>
+	<235>
+		<currencies>
+			<code>UGX</code>
+			<name>Ugandan shilling</name>
+			<symbol>Sh</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sw</iso639_1>
+			<iso639_2>swa</iso639_2>
+			<name>Swahili</name>
+			<nativeName>Kiswahili</nativeName>
+		</languages>
+		<name>Uganda</name>
+		<capital>Kampala</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>33860700</population>
+	</235>
+	<236>
+		<currencies>
+			<code>UAH</code>
+			<name>Ukrainian hryvnia</name>
+			<symbol>₴</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>uk</iso639_1>
+			<iso639_2>ukr</iso639_2>
+			<name>Ukrainian</name>
+			<nativeName>Українська</nativeName>
+		</languages>
+		<name>Ukraine</name>
+		<capital>Kiev</capital>
+		<region>Europe</region>
+		<subregion>Eastern Europe</subregion>
+		<population>42692393</population>
+	</236>
+	<237>
+		<currencies>
+			<code>AED</code>
+			<name>United Arab Emirates dirham</name>
+			<symbol>د.إ</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>United Arab Emirates</name>
+		<capital>Abu Dhabi</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>9856000</population>
+	</237>
+	<238>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>United Kingdom of Great Britain and Northern Ireland</name>
+		<capital>London</capital>
+		<region>Europe</region>
+		<subregion>Northern Europe</subregion>
+		<population>65110000</population>
+	</238>
+	<239>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>United States of America</name>
+		<capital>Washington, D.C.</capital>
+		<region>Americas</region>
+		<subregion>Northern America</subregion>
+		<population>323947000</population>
+	</239>
+	<240>
+		<currencies>
+			<code>UYU</code>
+			<name>Uruguayan peso</name>
+			<symbol>$</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Uruguay</name>
+		<capital>Montevideo</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>3480222</population>
+	</240>
+	<241>
+		<currencies>
+			<code>UZS</code>
+			<name>Uzbekistani so'm</name>
+		</currencies>
+		<languages>
+			<iso639_1>uz</iso639_1>
+			<iso639_2>uzb</iso639_2>
+			<name>Uzbek</name>
+			<nativeName>Oʻzbek</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>ru</iso639_1>
+			<iso639_2>rus</iso639_2>
+			<name>Russian</name>
+			<nativeName>Русский</nativeName>
+		</languages>
+		<name>Uzbekistan</name>
+		<capital>Tashkent</capital>
+		<region>Asia</region>
+		<subregion>Central Asia</subregion>
+		<population>31576400</population>
+	</241>
+	<242>
+		<currencies>
+			<code>VUV</code>
+			<name>Vanuatu vatu</name>
+			<symbol>Vt</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>bi</iso639_1>
+			<iso639_2>bis</iso639_2>
+			<name>Bislama</name>
+			<nativeName>Bislama</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Vanuatu</name>
+		<capital>Port Vila</capital>
+		<region>Oceania</region>
+		<subregion>Melanesia</subregion>
+		<population>277500</population>
+	</242>
+	<243>
+		<currencies>
+			<code>VEF</code>
+			<name>Venezuelan bolívar</name>
+			<symbol>Bs F</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Venezuela (Bolivarian Republic of)</name>
+		<capital>Caracas</capital>
+		<region>Americas</region>
+		<subregion>South America</subregion>
+		<population>31028700</population>
+	</243>
+	<244>
+		<currencies>
+			<code>VND</code>
+			<name>Vietnamese đồng</name>
+			<symbol>₫</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>vi</iso639_1>
+			<iso639_2>vie</iso639_2>
+			<name>Vietnamese</name>
+			<nativeName>Tiếng Việt</nativeName>
+		</languages>
+		<name>Viet Nam</name>
+		<capital>Hanoi</capital>
+		<region>Asia</region>
+		<subregion>South-Eastern Asia</subregion>
+		<population>92700000</population>
+	</244>
+	<245>
+		<currencies>
+			<code>XPF</code>
+			<name>CFP franc</name>
+			<symbol>Fr</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>fr</iso639_1>
+			<iso639_2>fra</iso639_2>
+			<name>French</name>
+			<nativeName>français</nativeName>
+		</languages>
+		<name>Wallis and Futuna</name>
+		<capital>Mata-Utu</capital>
+		<region>Oceania</region>
+		<subregion>Polynesia</subregion>
+		<population>11750</population>
+	</245>
+	<246>
+		<currencies>
+			<code>MAD</code>
+			<name>Moroccan dirham</name>
+			<symbol>د.م.</symbol>
+		</currencies>
+		<currencies>
+			<code>DZD</code>
+			<name>Algerian dinar</name>
+			<symbol>د.ج</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>es</iso639_1>
+			<iso639_2>spa</iso639_2>
+			<name>Spanish</name>
+			<nativeName>Español</nativeName>
+		</languages>
+		<name>Western Sahara</name>
+		<capital>El Aaiún</capital>
+		<region>Africa</region>
+		<subregion>Northern Africa</subregion>
+		<population>510713</population>
+	</246>
+	<247>
+		<currencies>
+			<code>YER</code>
+			<name>Yemeni rial</name>
+			<symbol>﷼</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>ar</iso639_1>
+			<iso639_2>ara</iso639_2>
+			<name>Arabic</name>
+			<nativeName>العربية</nativeName>
+		</languages>
+		<name>Yemen</name>
+		<capital>Sana'a</capital>
+		<region>Asia</region>
+		<subregion>Western Asia</subregion>
+		<population>27478000</population>
+	</247>
+	<248>
+		<currencies>
+			<code>ZMW</code>
+			<name>Zambian kwacha</name>
+			<symbol>ZK</symbol>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<name>Zambia</name>
+		<capital>Lusaka</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>15933883</population>
+	</248>
+	<249>
+		<currencies>
+			<code>BWP</code>
+			<name>Botswana pula</name>
+			<symbol>P</symbol>
+		</currencies>
+		<currencies>
+			<code>GBP</code>
+			<name>British pound</name>
+			<symbol>£</symbol>
+		</currencies>
+		<currencies>
+			<code>CNY</code>
+			<name>Chinese yuan</name>
+			<symbol>¥</symbol>
+		</currencies>
+		<currencies>
+			<code>EUR</code>
+			<name>Euro</name>
+			<symbol>€</symbol>
+		</currencies>
+		<currencies>
+			<code>INR</code>
+			<name>Indian rupee</name>
+			<symbol>₹</symbol>
+		</currencies>
+		<currencies>
+			<code>JPY</code>
+			<name>Japanese yen</name>
+			<symbol>¥</symbol>
+		</currencies>
+		<currencies>
+			<code>ZAR</code>
+			<name>South African rand</name>
+			<symbol>Rs</symbol>
+		</currencies>
+		<currencies>
+			<code>USD</code>
+			<name>United States dollar</name>
+			<symbol>$</symbol>
+		</currencies>
+		<currencies>
+			<code>(none)</code>
+		</currencies>
+		<languages>
+			<iso639_1>en</iso639_1>
+			<iso639_2>eng</iso639_2>
+			<name>English</name>
+			<nativeName>English</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>sn</iso639_1>
+			<iso639_2>sna</iso639_2>
+			<name>Shona</name>
+			<nativeName>chiShona</nativeName>
+		</languages>
+		<languages>
+			<iso639_1>nd</iso639_1>
+			<iso639_2>nde</iso639_2>
+			<name>Northern Ndebele</name>
+			<nativeName>isiNdebele</nativeName>
+		</languages>
+		<name>Zimbabwe</name>
+		<capital>Harare</capital>
+		<region>Africa</region>
+		<subregion>Eastern Africa</subregion>
+		<population>14240168</population>
+	</249>
+</root>
